@@ -110,6 +110,9 @@ body {
   .nav-elem{
     padding: 3px 10px;
   }
+  .ritkitott{
+    letter-spacing: 3px;
+  }
   .dropdown-menu-hatter{
     background-color: #eee;
     border: 1px solid #4C2807;
