@@ -126,7 +126,7 @@ body {
     color: #eee;
   }
   .lenyilo-ikon{
-    padding-right: 10px;
+    padding-right: 25px;
   }
 
   /*Cégünkről carousel*/
@@ -146,10 +146,15 @@ body {
   .card-cegunkrol{
     transition: 2s;
     cursor: pointer;
+    text-decoration: none;
+    color: #777;
+    text-align: center;
   }
   .card-cegunkrol:hover{
     transform: scale(1.03);
     box-shadow: #6a6a6a 2px 1px;
+    text-decoration: none;
+    color: #777;
   }
   .kiemelt{
     font-size: 1.2em;
